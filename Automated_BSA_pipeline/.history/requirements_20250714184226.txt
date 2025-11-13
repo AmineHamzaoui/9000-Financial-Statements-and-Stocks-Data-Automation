@@ -1,0 +1,11 @@
+smartmoneyconcepts
+yfinance
+TA-Lib  
+pandas
+numpy
+.\ta_lib-0.6.4-cp311-cp311-win_amd64.whl
+pyarrow
+tqdm
+fastparquet
+TA-Lib
+smartmoneyconcepts

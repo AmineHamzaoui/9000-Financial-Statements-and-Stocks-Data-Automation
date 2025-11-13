@@ -1,0 +1,5 @@
+smartmoneyconcepts
+yfinance
+TA-Lib  
+pandas
+numpy

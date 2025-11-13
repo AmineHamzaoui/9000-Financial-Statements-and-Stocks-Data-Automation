@@ -1,0 +1,26 @@
+# Ignore ALL virtual environments anywhere inside the project
+venv/
+*/venv/
+**/venv/
+Selenium_project/venv/
+# Python cache
+__pycache__/
+*.pyc
+*.csv
+*.parquet
+*.pkl
+*.zip
+*.gz
+*.xlsx
+*.json
+
+# Ignore ETL outputs
+ETL/historical_chunks*
+ETL/output_merged/
+ETL/stock_data/
+ETL/final_features_output.csv
+ETL/historical_data.csv
+ETL/stock_with_fundamentals_with_sector.csv
+
+# Ignore venv
+venv/

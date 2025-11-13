@@ -1,0 +1,3 @@
+smartmoneyconcepts
+yfinance
+TA-Lib  

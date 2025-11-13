@@ -1,0 +1,8 @@
+# Ignore ALL virtual environments anywhere inside the project
+venv/
+*/venv/
+**/venv/
+Selenium_project/venv/
+# Python cache
+__pycache__/
+*.pyc

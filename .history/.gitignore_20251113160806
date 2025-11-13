@@ -1,0 +1,14 @@
+# Ignore ALL virtual envs anywhere
+**/venv/
+**/.venv/
+**/env/
+**/ENV/
+
+# Ignore VS Code local history
+.history/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd

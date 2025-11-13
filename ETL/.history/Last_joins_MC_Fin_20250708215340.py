@@ -1,0 +1,2 @@
+import pandas as pd 
+Macro_YF=pd.read_csv("D:/ETL/Macro_YF_1csv", index_col=0, parse_dates=True)
